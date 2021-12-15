@@ -1,5 +1,4 @@
-# La efectividad de los modelos de lenguaje a nivel carácter y por qué las RNN siguen siendo geniales
-Repositorio del proyecto desarrollado para el curso de Inteligencia Artificial.
+# Generación De Texto Con Redes Neuronales Recurrentes
 
 ## Integrantes
 
@@ -7,3 +6,5 @@ Repositorio del proyecto desarrollado para el curso de Inteligencia Artificial.
 ### Yana Cesar 
 
 Profesor Cesar Lara
+
+Trello: https://trello.com/b/oiIrdzg0/generaci%C3%B3n-de-texto-con-redes-neuronales-recurrentes
